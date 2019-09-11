@@ -1,0 +1,10 @@
+D:\My Works\VisualStudio work\Games\PuzzelGame\bin\Debug\PuzzelGame.exe.config
+D:\My Works\VisualStudio work\Games\PuzzelGame\bin\Debug\PuzzelGame.exe
+D:\My Works\VisualStudio work\Games\PuzzelGame\bin\Debug\PuzzelGame.pdb
+D:\My Works\VisualStudio work\Games\PuzzelGame\obj\Debug\PuzzelGame.csprojAssemblyReference.cache
+D:\My Works\VisualStudio work\Games\PuzzelGame\obj\Debug\PuzzelGame.Form1.resources
+D:\My Works\VisualStudio work\Games\PuzzelGame\obj\Debug\PuzzelGame.Properties.Resources.resources
+D:\My Works\VisualStudio work\Games\PuzzelGame\obj\Debug\PuzzelGame.csproj.GenerateResource.cache
+D:\My Works\VisualStudio work\Games\PuzzelGame\obj\Debug\PuzzelGame.csproj.CoreCompileInputs.cache
+D:\My Works\VisualStudio work\Games\PuzzelGame\obj\Debug\PuzzelGame.exe
+D:\My Works\VisualStudio work\Games\PuzzelGame\obj\Debug\PuzzelGame.pdb

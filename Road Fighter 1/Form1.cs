@@ -134,9 +134,6 @@ namespace Road_Fighter_1
             }
 
         }
-
-
-
         void Coins(int speed)
         {
             //enemy 1
